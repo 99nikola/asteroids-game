@@ -73,9 +73,9 @@ namespace Asteroids.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap asteroid1 {
+        internal static System.Drawing.Bitmap spaceship {
             get {
-                object obj = ResourceManager.GetObject("asteroid1", resourceCulture);
+                object obj = ResourceManager.GetObject("spaceship", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
